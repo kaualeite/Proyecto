@@ -1,0 +1,113 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25-abr-2017, 23:26:25
+    Author     : User
+*/
+
+#superior1{
+  
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    
+    
+    
+}
+#proximos{
+    color: black;
+   
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 1%;
+  
+ 
+    
+}
+#superior2{
+    
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+    
+    
+}
+#musicos{
+    
+    color: black;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: green;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 1%;
+    margin-bottom: 5%;
+    
+}
+#encabezado{
+   
+    text-align: center;
+    margin-bottom: 5%;
+    
+}
+#img2{
+    width: 80%;
+    margin-top: 5%;
+    border-style:solid;
+    border-width: 2px;
+    border-color: black;
+}
+#header{
+    border-style: solid;
+    border-color: black;
+    width: 100%;
+    height: 100%;
+}
+#logo{
+    display: inline-block;
+}
+#img{
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+}
+#locales{
+    margin-top: 3%;
+    margin-left: 10%;
+    width: 5%;
+    vertical-align: top;
+    display: inline-block;
+}
+#grupos{
+    margin-top: 3%;
+    margin-left: 10%;
+    width: 5%;
+    vertical-align: top;
+    display: inline-block;
+}
+#idioma{
+    margin-top: 3%;
+    margin-left: 20%;
+    width: 5%;
+    vertical-align: top;
+    display: inline-block;
+    border: solid;
+    border-color: black;
+}
+#desconectar{
+    margin-top: 3%;
+    margin-left: 15%;
+    vertical-align: top;
+    display: inline-block;
+}
+
+#line1{
+    border-style: solid;
+    border-width: 2px;
+    border-color: green;
+    margin-top: 5%;
+}
